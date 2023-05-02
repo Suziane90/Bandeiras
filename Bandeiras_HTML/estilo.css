@@ -1,0 +1,324 @@
+.verde {
+    box-sizing: content-box;
+    width: 300px;
+    height: 200px;
+    padding: 10px;
+    border: 5px solid black;
+    margin: 15px;
+    background-color: red;
+}
+.branco {
+    box-sizing: content-box;
+    width: 116px; /* vertical*/
+    height: 220px; /* horizontal*/
+    position:absolute;
+    top: 5px; /* move para baixo (horizontal)*/
+    left: 124px; /*move para o lado esquerdo*/
+    background-color: white;
+    padding: 0.1px; /* move para o meio */
+    margin: 15px;
+}
+.vermelho{
+    box-sizing: content-box;
+    width: 112px; /* aumenta na vertical*/
+    height: 220px; /* aumenta na horizontal*/
+    position: absolute;
+    top: 5px; /* move para baixo (horizontal)*/
+    left: 12px; /*numero maior move para direita, menor move para a esquerda*/
+    background-color:green;
+    padding: 0.1px; /* move para o meio */
+    margin: 15px;
+   
+}
+
+.azul{
+    box-sizing: content-box;
+    width: 300px;
+    height: 200px;
+    padding: 10px;
+    border: 5px solid black;
+    margin: 15px;
+    background-color: rgb(20, 175, 247);
+}
+.amarelo{
+    box-sizing: content-box;
+    width: 320px; /* aumenta na horizontal*/
+    height:115px; /* aumenta na vertical*/
+    position: absolute;
+    top: 250px; /* move para baixo (horizontal)*/
+    left: 13px; /*numero maior move para direita, menor move para a esquerda*/
+    background-color:yellow;
+    padding: 0.1px; /* move para o meio */
+    margin: 15px;
+}
+.preto{ /* base para Alemanha*/
+    box-sizing: content-box;
+    width: 300px;
+    height: 200px;
+    padding: 10px;
+    border: 5px solid black;
+    margin: 15px;
+    background-color: black;
+
+}
+.ale_vermelho{
+    box-sizing: content-box;
+    width: 312px;
+    height: 100px;
+    top: 495px; /* move para baixo (horizontal)*/
+    left: 12px; /*numero maior move para direita, menor move para a esquerda*/
+    padding: 5px;
+    margin: 15px;
+    position: absolute;
+    background-color: rgb(248, 3, 3);
+}
+.ale_amarelo{
+    box-sizing: content-box;
+    width: 312px;
+    height: 70px;
+    top: 560px; /* move para baixo (horizontal)*/
+    left: 12px; /*numero maior move para direita, menor move para a esquerda*/
+    padding: 5px;
+    margin: 15px;
+    position: absolute;
+    background-color:yellow;
+}
+.botswana_azul{
+    box-sizing: content-box;
+    width: 300px;
+    height: 200px;
+    padding: 10px;
+    border: 5px solid black;
+    margin: 15px;
+    background-color: rgb(8, 171, 247);
+
+}
+.botswana_branco{
+    box-sizing: content-box;
+    width: 310px;
+    height: 50px;
+    top: 920px; /* move para baixo (horizontal)*/
+    left: 13px; /*numero maior move para direita, menor move para a esquerda*/
+    padding: 5px;
+    margin: 15px;
+    position: absolute;
+    background-color:white;
+}
+.botswana_preto{
+    box-sizing: content-box;
+    width: 310px;
+    height: 20px;
+    top: 938px; /* move para baixo (horizontal)*/
+    left: 13px; /*numero maior move para direita, menor move para a esquerda*/
+    padding: 5px;
+    margin: 15px;
+    position: absolute;
+    background-color:black;
+}
+.benin_verde{
+    box-sizing: content-box;
+    width: 300px;
+    height: 200px;
+    padding: 10px;
+    border: 5px solid black;
+    margin: 15px;
+    background-color: green;
+}
+.benin_amarelo{
+    box-sizing: content-box;
+    width: 200px;
+    height: 100px;
+    top: 1084px; /* move para baixo (horizontal)*/
+    left: 123px; /*numero maior move para direita, menor move para a esquerda*/
+    padding: 5px;
+    margin: 15px;
+    position: absolute;
+    background-color:yellow;
+}
+.benin_vermelho{
+    box-sizing: content-box;
+    width: 200px;
+    height: 100px;
+    top: 1194px; /* move para baixo (horizontal)*/
+    left: 123px; /*numero maior move para direita, menor move para a esquerda*/
+    padding: 5px;
+    margin: 15px;
+    position: absolute;
+    background-color:red;
+}
+.finlandia_branco{
+    box-sizing: content-box;
+    width: 300px;
+    height: 200px;
+    padding: 10px;
+    border: 5px solid black;
+    margin: 15px;
+    background-color: white;
+}
+.horizontal_azul{
+    box-sizing: content-box;
+    width: 310px;
+    height: 50px;
+    top: 1408px; /* move para baixo (horizontal)*/
+    left: 13px; /*numero maior move para direita, menor move para a esquerda*/
+    padding: 5px;
+    margin: 15px;
+    position: absolute;
+    background-color:rgb(0, 132, 255);
+}
+.vertical_azul{
+    box-sizing: content-box;
+    width: 50px;
+    height: 210px;
+    top: 1328px; /* move para baixo (horizontal)*/
+    left: 90px; /*numero maior move para direita, menor move para a esquerda*/
+    padding: 5px;
+    margin: 15px;
+    position: absolute;
+    background-color:rgb(0, 132, 255);
+}
+.tailandia_vermelho{
+    box-sizing: content-box;
+    width: 300px;
+    height: 200px;
+    padding: 10px;
+    border: 5px solid black;
+    margin: 15px;
+    background-color: red;
+}
+.tailandia_branco{
+    box-sizing: content-box;
+    width: 310px;
+    height: 150px;
+    top: 1700px; /* move para baixo (horizontal)*/
+    left: 13px; /*numero maior move para direita, menor move para a esquerda*/
+    padding: 5px;
+    margin: 15px;
+    position: absolute;
+    background-color: white;
+}
+.tailandia_azul{
+    box-sizing: content-box;
+    width: 310px; /*move os lados*/
+    height: 100px;
+    top: 1727px; /* move para baixo (horizontal)*/
+    left: 13px; /*numero maior move para direita, menor move para a esquerda*/
+    padding: 5px;
+    margin: 15px;
+    position: absolute;
+    background-color: rgb(33, 97, 180);
+}
+.noruega_vermelho{
+    box-sizing: content-box;
+    width: 300px;
+    height: 200px;
+    padding: 10px;
+    border: 5px solid black;
+    margin: 15px;
+    background-color: red;
+}
+.noruega_branco_horizontal{
+    box-sizing: content-box;
+    width: 310px;
+    height: 50px;
+    top: 2000px; /* move para baixo (horizontal)*/
+    left: 13px; /*numero maior move para direita, menor move para a esquerda*/
+    padding: 5px;
+    margin: 15px;
+    position: absolute;
+    background-color:white;
+}
+.noruega_branco_vertical{
+    box-sizing: content-box;
+    width: 50px;
+    height: 210px;
+    top: 1916px; /* move para baixo (horizontal)*/
+    left: 90px; /*numero maior move para direita, menor move para a esquerda*/
+    padding: 5px;
+    margin: 15px;
+    position: absolute;
+    background-color: white;
+}
+.noruega_azul_horizontal{
+    box-sizing: content-box;
+    width: 310px;
+    height: 26px;
+    top: 2012px; /* move para baixo (horizontal)*/
+    left: 13px; /*numero maior move para direita, menor move para a esquerda*/
+    padding: 5px;
+    margin: 15px;
+    position: absolute;
+    background-color:rgb(33, 97, 180);
+}
+.noruega_azul_vertical{
+    box-sizing: content-box;
+    width: 26px;
+    height: 210px;
+    top: 1916px;
+    left: 102px;
+    padding: 5px;
+    margin: 15px;
+    position: absolute;
+    background-color: rgb(33, 97, 180);
+}
+.retangulo_verde{
+    box-sizing: content-box;
+    width: 300px;
+    height: 200px;
+    padding: 10px;
+    border: 5px solid black;
+    margin: 15px;
+    background-color: green;
+}
+.losango_amarelo{
+    box-sizing: content-box;
+    width: 140px;
+    height: 140px;
+    top: 2198px; /* move para baixo (horizontal)*/
+    left: 90px; /*numero maior move para direita, menor move para a esquerda*/
+    padding: 5px;
+    margin: 15px;
+    position: absolute;
+    background-color:rgb(255, 196, 0);
+    transform: rotate(45deg)
+}
+.circulo_azul{
+    box-sizing: content-box;
+    width: 100px;
+    height: 100px;
+    top: 2212px; /* move para baixo (horizontal)*/
+    left: 112px; /*numero maior move para direita, menor move para a esquerda*/
+    padding: 5px;
+    margin: 15px;
+    position: absolute;
+    background-color:rgb(2, 82, 255);
+    border-radius:50%;
+    transform: rotate(45deg)
+}
+.linha_branca{
+    box-sizing: content-box;
+    width: 100px;
+    height: 10px;
+    top: 2256px; /* move para baixo (horizontal)*/
+    left: 112px; /*numero maior move para direita, menor move para a esquerda*/
+    padding: 5px;
+    margin: 15px;
+    position: absolute;
+    background-color:rgb(240, 240, 243);
+    border-radius:10%;
+}
+.nome{
+    box-sizing: content-box;
+    width: 300px;
+    height: 50px;
+    top: 2256px; /* move para baixo (horizontal)*/
+    left: 114px; /*numero maior move para direita, menor move para a esquerda*/
+    padding: 5px;
+    margin: 15px;
+    position: absolute;
+    font-size:x-small;
+    font-family: Lucida Sans;
+}
+
+
+    
